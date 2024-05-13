@@ -15,7 +15,7 @@ function calculate() {
   }
 }
 
-// Флаг, указывающий на необходимость очистки поля ввода перед вводом нового числа или оператора
+
 let clearInput = false;
 
 function appendToDisplay(value) {

@@ -29,7 +29,7 @@ body {
   border: none;
   border-radius: 5px;
   text-align: center;
-  box-sizing: border-box; /* чтобы полоска не выходила за пределы ширины калькулятора */
+  box-sizing: border-box; 
 }
 
 .buttons {
